@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/myelodysplastic-syndromes-myelodysplasia---primary.py
+inputModule3:
+  class: File
+  path: python/myelodysplastic-syndromes-blast---primary.py
+inputModule4:
+  class: File
+  path: python/myelodysplastic-syndromes-transformation---primary.py
+inputModule5:
+  class: File
+  path: python/myelodysplastic-syndromes-minus---primary.py
+inputModule6:
+  class: File
+  path: python/myelodysplastic-syndromes-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/myelodysplastic-syndromes-[m]myelodysplastic---primary.py
+inputModule8:
+  class: File
+  path: python/myelodysplastic-syndromes-refractory---primary.py
+inputModule9:
+  class: File
+  path: python/myelodysplastic-syndromes---primary.py
+inputModule10:
+  class: File
+  path: python/myelodysplastic-syndromes---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
